@@ -1,0 +1,15 @@
+name: ici-computational-resources
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy>=1.24
+  - scipy>=1.10
+  - pandas>=2.0
+  - scikit-learn>=1.2
+  - matplotlib>=3.7
+  - plotly>=5.14
+  - statsmodels>=0.14
+  - pymc>=5.0
+  - arviz>=0.15
+  - pip

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "ICI Computational Resources"
+message: "If you use this repository, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Li"
+    given-names: "Kaisheng"
+  - family-names: "Li"
+    given-names: "Longji"
+repository-code: "https://github.com/EQTResearcher/ICI-computational-resources"
+license: MIT
+version: "0.1.0"
+date-released: "2026-06-06"
+abstract: "Companion computational resources for the ICI framework, including Python code, SOP protocols, parameter templates, examples, and appendix documentation."

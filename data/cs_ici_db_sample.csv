@@ -1,0 +1,4 @@
+system_id,system_name,domain,data_quality,D,C,S,F,W,M,ICI,ICI_lower_68,ICI_upper_68,notes
+BIO-001,E. coli K-12,biological_lab,A,2.0e3,1.0e8,1.0e5,20,1.0e-3,1.0e2,20.3,18.1,22.9,Sample entry transcribed from Appendix B
+BIO-002,Synechocystis sp. PCC 6803,biological_field,B,3.0e3,2.0e8,2.0e5,50,3.0e-3,5.0e2,26.1,21.8,31.5,Sample entry transcribed from Appendix B
+BIO-003,Halobacterium salinarum NRC-1,biological_field,B,2.5e3,1.5e8,1.5e5,25,8.0e-4,1.5e2,19.8,16.2,24.1,Sample entry transcribed from Appendix B
