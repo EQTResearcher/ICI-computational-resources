@@ -1,0 +1,2 @@
+case_id,case_name,period_start,period_end,D,C,S,F,W,M,D_log_std,C_log_std,S_log_std,F_log_std,W_log_std,M_log_std,quality_rating,data_sources,notes
+example_case,Example Human Social Transition Case,0,100,100,1000000,10000,100,0.0001,1000,0.2,0.3,0.4,0.4,0.4,0.5,draft,"Replace with sources","Replace with notes"

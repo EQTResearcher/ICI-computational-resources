@@ -1,0 +1,7 @@
+case_id,parameter,point_estimate,log_std,data_level,source,method,notes
+example_case,D,100,0.2,draft,Replace with source,Replace with method,Replace with notes
+example_case,C,1000000,0.3,draft,Replace with source,Replace with method,Replace with notes
+example_case,S,10000,0.4,draft,Replace with source,Replace with method,Replace with notes
+example_case,F,100,0.4,draft,Replace with source,Replace with method,Replace with notes
+example_case,W,0.0001,0.4,draft,Replace with source,Replace with method,Replace with notes
+example_case,M,1000,0.5,draft,Replace with source,Replace with method,Replace with notes
