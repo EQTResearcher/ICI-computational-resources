@@ -1,0 +1,3 @@
+case_id,period_start,period_end,D,C,S,F,W,M,D_log_std,C_log_std,S_log_std,F_log_std,W_log_std,M_log_std,quality_rating,sources,notes,formula_version
+roman_five_good_emperors,96,180,120,50000000.0,1500000.0,3000,1e-05,10000.0,0.3,0.3,0.4,0.4,0.4,0.5,B,Scheidel; Hopkins,template row; verify before use,linear_FWM_v4
+ming_late_fiscal_stress,1570,1644,150,150000000.0,2000000.0,1500,5e-06,8000.0,0.35,0.35,0.45,0.45,0.45,0.55,C,to be documented,template row; verify before use,linear_FWM_v4
