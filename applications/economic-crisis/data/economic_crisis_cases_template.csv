@@ -1,0 +1,6 @@
+case_id,period_start,period_end,D,C,S,F,W,M,D_log_std,C_log_std,S_log_std,F_log_std,W_log_std,M_log_std,formula_version,source_notes,notes
+great_depression_1929,1925,1933,,,,,,,,,,,,,linear_FWM_v4,,
+asian_financial_crisis_1997,1994,1999,,,,,,,,,,,,,linear_FWM_v4,,
+global_financial_crisis_2008,2004,2012,,,,,,,,,,,,,linear_FWM_v4,,
+eurozone_debt_crisis_2010,2008,2015,,,,,,,,,,,,,linear_FWM_v4,,
+covid_market_shock_2020,2019,2021,,,,,,,,,,,,,linear_FWM_v4,,
