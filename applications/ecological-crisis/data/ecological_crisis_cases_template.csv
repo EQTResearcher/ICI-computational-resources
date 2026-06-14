@@ -1,0 +1,6 @@
+case_id,ecosystem_type,location,period_start,period_end,D,C,S,F,W,M,D_log_std,C_log_std,S_log_std,F_log_std,W_log_std,M_log_std,formula_version,source_notes,notes
+coral_reef_bleaching,coral_reef,,,,,,,,,,,,,,,,linear_FWM_v4,,
+tropical_rainforest_degradation,forest,,,,,,,,,,,,,,,,linear_FWM_v4,,
+shallow_lake_eutrophication,freshwater_lake,,,,,,,,,,,,,,,,linear_FWM_v4,,
+wetland_degradation,wetland,,,,,,,,,,,,,,,,linear_FWM_v4,,
+grassland_desertification,grassland,,,,,,,,,,,,,,,,linear_FWM_v4,,

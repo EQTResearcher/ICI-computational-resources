@@ -1,0 +1,1 @@
+example_coral_reef_case: ICI=21.101, R(t)=-14.699, band=collapse-risk
