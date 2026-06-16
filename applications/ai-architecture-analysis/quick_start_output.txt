@@ -1,0 +1,1 @@
+example_transformer_case: ICI=3845.062, R(t)=-15.000, band=overload-risk

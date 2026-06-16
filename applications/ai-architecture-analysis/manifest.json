@@ -1,0 +1,8 @@
+{
+  "created": "2026-06-16T09:02:49.468346Z",
+  "application": "ai-architecture-analysis",
+  "repository_target": "ICI-computational-resources/applications/ai-architecture-analysis",
+  "source_file": "AI复杂性v3.0.docx",
+  "formula_version": "linear_FWM_v4",
+  "notes": "Initial application directory scaffold for the ICI AI complexity volume."
+}
